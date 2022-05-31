@@ -1,17 +1,11 @@
-package com.medusa-health;
+package com.medusa_health;
 
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
-/**
- * Unit test for simple App.
- */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
     public void shouldAnswerWithTrue()
     {
